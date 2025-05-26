@@ -31,7 +31,7 @@
 
 <h3>✅ Requirements</h3>
 
-<p>Before starting, make sure you have Git, Node.js, and Visual Studio Code installed on your system. Also, install the Live Server extension in VS Code to easily preview the project.
+<p>Before starting, make sure you have Git, Node.js and Visual Studio Code installed on your system. Also, install the Live Server extension in VS Code to easily preview the project.
 </p>
 
 <h3>🚀 How to Install</h3>
@@ -44,8 +44,9 @@ $ git clone git@github.com:missnts/registrationPage.git
 $ cd registrationPage
 ```
 <h3>▶️ Run the Project</h3>
+
 <p>Open the <code>index.html</code> file in Visual Studio Code, then right-click on the file and select <b>"Open with Live Server"</b> to launch the project in your browser.</p>
 
-<div align="center">
-  <span>Made with ❤️ by Milena S. Santos</span>
+<div align="left">
+  <span>This project was made with ❤️ by Milena S. Santos</span>
 </div>
