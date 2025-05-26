@@ -47,6 +47,6 @@ $ cd registrationPage
 
 <p>Open the <code>index.html</code> file in Visual Studio Code, then right-click on the file and select <b>"Open with Live Server"</b> to launch the project in your browser.</p>
 
-<div align="left">
+<div align="center">
   <span>This project was made with ❤️ by Milena S. Santos</span>
 </div>
